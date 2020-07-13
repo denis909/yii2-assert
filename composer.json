@@ -1,0 +1,13 @@
+{
+    "name": "denis909/yii2-assert",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "denis909\\yii\\" : ""
+        }
+    },
+    "require": {
+        "webmozart/assert": "*"
+    }
+}
